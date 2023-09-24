@@ -1,0 +1,16 @@
+.navContainer{
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+    padding: 1rem;
+    border-bottom: solid 1px rgb(240, 238, 238);
+}
+.navTab{
+    
+    padding: 1rem;
+}
+.activTab{
+    padding: 1rem;
+    border-bottom: 1px solid blue;
+    color: blue;
+}
